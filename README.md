@@ -1,5 +1,7 @@
 Basically, this is a small simulation of an sand falling like game
+<br />
 The "slika.bmp" file in Debug is an initialization image that can be drawn or scaled (bigger resolutions hinder performance)
+<br />
 Before starting the simulation you can draw on the "slika.bmp" file using next rgb color scheme:
 Barrier - 0, 0, 0
 Wood - 139,69,19
