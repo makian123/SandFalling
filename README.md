@@ -13,4 +13,5 @@ Water - 0, 0, 255
 Sand - 255,140,0
 <br />
 Air - 255, 255, 255
+<br />
 Fire - 255,69,0 (at the moment doesnt last for more than a frame)
