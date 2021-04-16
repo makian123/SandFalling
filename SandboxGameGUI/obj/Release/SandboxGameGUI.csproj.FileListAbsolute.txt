@@ -1,0 +1,12 @@
+D:\C# projects\SandboxGameGUI\SandboxGameGUI\bin\Release\SandboxGameGUI.exe.config
+D:\C# projects\SandboxGameGUI\SandboxGameGUI\bin\Release\SandboxGameGUI.exe
+D:\C# projects\SandboxGameGUI\SandboxGameGUI\bin\Release\SandboxGameGUI.pdb
+D:\C# projects\SandboxGameGUI\SandboxGameGUI\bin\Release\System.Drawing.Common.dll
+D:\C# projects\SandboxGameGUI\SandboxGameGUI\obj\Release\SandboxGameGUI.Form1.resources
+D:\C# projects\SandboxGameGUI\SandboxGameGUI\obj\Release\SandboxGameGUI.Properties.Resources.resources
+D:\C# projects\SandboxGameGUI\SandboxGameGUI\obj\Release\SandboxGameGUI.csproj.GenerateResource.cache
+D:\C# projects\SandboxGameGUI\SandboxGameGUI\obj\Release\SandboxGameGUI.csproj.CoreCompileInputs.cache
+D:\C# projects\SandboxGameGUI\SandboxGameGUI\obj\Release\SandboxGameGUI.csproj.CopyComplete
+D:\C# projects\SandboxGameGUI\SandboxGameGUI\obj\Release\SandboxGameGUI.exe
+D:\C# projects\SandboxGameGUI\SandboxGameGUI\obj\Release\SandboxGameGUI.pdb
+D:\C# projects\SandboxGameGUI\SandboxGameGUI\obj\Release\SandboxGameGUI.csprojAssemblyReference.cache
